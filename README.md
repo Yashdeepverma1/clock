@@ -1,6 +1,6 @@
 # Clock Ui
 ### Responsive Clock UI
-#### [View Demo](https://yashdeepverma1.github.io/Clock)
+#### [View Demo](https://yashdeepverma1.github.io/clock)
 
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
 - Contains an elegant Neumorphism watch.
